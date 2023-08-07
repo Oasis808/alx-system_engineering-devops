@@ -1,1 +1,1 @@
-This repository is for the shell basics task
+a script that prints hello world
